@@ -1,0 +1,9 @@
+Package: io.github.1dvlpr.verticalbatterydrain
+Name: VerticalBatteryDrain
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Changes the status bar battery to drain vertically instead of horizontally
+Maintainer: 1dvlpr (Aditya Tomar)
+Author: 1dvlpr (Aditya Tomar)
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)
